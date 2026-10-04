@@ -1,6 +1,6 @@
 importOnly
-
-openGraphImage paul-hedcut.png
+baseUrl https://bujohnnyc.breck.lol/
+openGraphImage john-hedcut.png
 blog.parsers
 editBaseUrl https://github.com/breck7/bujohnnyc/blob/main/
 bu.scroll
