@@ -1,0 +1,31 @@
+November 18, 2007
+Who needs an AppleTV?
+=====================
+
+We got a new (HD!) telly which has a VGA port, so I finally got to hook up my new Linux media server:
+
+[Image not archived]
+
+Of course, I didn’t just leave the various parts strewn around:
+
+[Image not archived]
+
+Nice and neat. Note the special enclosure design to allow maximum airflow:
+
+[Image not archived]
+
+And a closeup:
+
+[Image not archived]
+
+Clever design allows all the parts to fit in the basket. Well-placed Vodafone box stops the power supply’s metal case short circuiting all the twiddly bits on the motherboard. Overall layout:
+
+[Image not archived]
+
+All in all the project was a great success. I envisage many uses:
+
+- Media hub
+- Modern art
+- Fire hazard
+- Tux Racer console
+- Accident waiting to happen

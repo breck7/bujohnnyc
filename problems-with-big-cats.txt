@@ -1,0 +1,31 @@
+June 22, 2007
+Problems with big cats
+======================
+
+I’m not going to talk about eBay live - there’s too much funny stuff that happened and I wouldn’t do it justice. Instead, more aspects of American life!
+
+Shopping
+
+Safeway is our local “grocery store” - we returned to an empty house after Boston so did some proper shopping. Cereal was obviously first on the agenda. God, all the food in America is so dodgy. I know it’s been said before but jeez. In all the cereal isles - there was one cereal that didn’t contain sugar - Shredded wheat. There was no muesli or anything vaguely resembling something kinda sorta almost nearly natural. Most cereals were “frosted” or had “a touch of honey”. We found Chocolate Lucky Charms which were 50% sugar.
+
+The other worrying thing was that on all the cereals I found the message “Packaging is lined with BHT to preserve freshness”. Worried that most of my solid intake is laced with a substance that sounds like a cow-borne disease, I looked it up on the wiki. It turns out Butylated Hydroxytoluene is a fat-soluble organic compound also known as E321. From the wiki article:
+
+It is also used as an antioxidant in cosmetics, pharmaceutical drugs, jet fuels, rubber, petroleum products, and embalming fluid. … The compound has been banned for use in food in Japan (1958), Romania, Sweden, and Australia.
+
+Lovely.
+
+As Patrick noted in his American-life blog, you can’t get bread without sugar. The bread is actually sick, it’s so sweet. You can’t eat it with things because the sugar drowns out the taste of the things. You can’t eat it on its own because it’s disgusting. Most of the bread also seems to be enriched - Americans love this kind of thing. The milk has “antibiotics and added Vitamin D”. Everything is like “food, on steroids” - literally.
+
+Mauled by the leopard
+
+I installed the Leopard beta after WWDC. Everything is shiny and there’s lots of new features. But’s that’s negated by the fact that it broke everything I need - Rails, sudo and VPN.
+
+16:30: I’m at the Apple store as I write this now. I explained my situation to the nice guy at the Genius Bar, and he told me it’d be $150 for a software reinstall.
+
+The thought process that followed went something like this:
+
+They want to charge me… because I broke it through my own fault… if only it was their fault - the laptop’s under warranty… any way to make it their fault… no… wait… hard drive failure! Of course! I just need to break the hard drive!
+
+I consulted Patrick, and sure enough, there’s a way to do it. He gave me a command to delete the bootloader, the thing that controls the laptop at startup. The laptop won’t be able to boot without it.
+
+21:00: I felt really sorry for the guy at the Genius Bar. I had deleted /bin (all the system files) and he was trying to diagnose it. I wanted to tell him what was wrong, but obviously I couldn’t. Eventually he reinstalled Tiger and I was a happy camper again.

@@ -1,0 +1,21 @@
+Scenes from the Auctomatic apartment
+ linkify false
+ bold Scenes from the Auctomatic apartment
+
+1am: The four of us are seated around our 2 metre square desk. None of us can see each other, because there’s monitors in the way. None of us can talk to each other because we all have noise-isolating earphones in. All four of us are on the #auctomatic channel on irc.freenode.net, discussing the site. Someone says “so, what’re we going to do about dinner?” and the discussion goes there.
+ linkify false
+
+1:30am: It seems so unreasonable that all pizza places be shut at this hour. I mean come on?
+ linkify false
+
+2:00am: Playing soccer in the apartment. Airbed for a goal, kickboxing handwrap for a ball. Nearly trip and fall onto our new Dell servers strewn on the floor. The ball goes wide and hits Patrick’s monitor. We play on. The ball goes wide and flies out the open window, landing near the fountain five stories below. The games stops.
+ linkify false
+
+All web development should be like this.
+ linkify false
+ bold All web development should be like this.
+
+Recently started using Firefox + Web Developer Toolbar + Firebug for when I’m working on frontend stuff. I don’t think I’ll ever go back. Being able to inspect your elements, find out where they’re getting their style and edit the CSS in the browser seem like features I could never do without.
+ linkify false
+ link https://addons.mozilla.org/en-US/firefox/addon/60 Web Developer Toolbar
+ link http://www.getfirebug.com/ Firebug
