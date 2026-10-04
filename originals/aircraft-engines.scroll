@@ -1,0 +1,94 @@
+Until recently, I’d never understood the distinctions between the various types of aircraft engines, and how they all worked. So I decided to write a guide to both common aircraft engines and niche, wildly-impractical engines.
+ linkify false
+
+Nearly all aircraft engines have a common input and output. They use petroleum-based fuel, which is a wonderfully compact source of chemical energy. They produce thrust. The only difference is in the conversion from fuel to forward motion.
+ linkify false
+
+## Piston engines
+ linkify false
+
+A simple and popular propulsion system is the piston engine attached to a propeller. This is the setup used by the Wright brothers on their first flight at Kitty Hawk, and it’s still used in the Cessna 172, the most widely-flown airplane today.
+ linkify false
+
+Pistons are neat devices. Fuel is burned and pushes down a piston. The downward motion is converted into rotation with a crankshaft, exactly the same way as when you pedal a bicycle. The crankshaft turns the propeller, which pulls air rearwards and causes the plane to move forwards.
+ linkify false
+
+Though the fundamentals of the piston engines are the same in both cars and planes, the design constraints on each means we rarely share engines between cars and planes. Aircraft engines need to be light and capable of running at maximum power for extended periods, two constraints not as important in car engine design.
+ linkify false
+
+## Turboprops
+ linkify false
+
+People associate “turboprop” with nasty, noisy, unsafe regional airliners. That’s a pity, because turboprops are a clever invention. A turboprop’s construction is easy to remember if you split it out: it’s a turbine connected to a propeller.
+ linkify false
+ link http://en.wikipedia.org/wiki/ATR_72 regional airliners
+
+Turbines have been around forever. Simply put, a turbine gives you a handy rotating rod from a moving liquid or gas. The Ancient Romans made water mills by having a screw sit in the water. The flow would cause the screw to turn, and gears and rods brought that rotation to the millstone.
+ linkify false
+
+During the Industrial Revolution, steam turbines became widespread. If you burn coal to make water boil, it produces rising steam and — oh, hey! — you’ve got a moving gas. Put a screw in that gas for it to flow through, and it’ll cause the screw to turn. We can now use that rotation to turn a ship’s propeller, a loom, a train, and other such steam-powered things that were fashionable at the time.
+ linkify false
+
+How else can we create moving liquid or gas? As usual, lighting things on fire is the solution. Igniting petrol in air heats the air, causing it to expand rapidly. If you ignite it in a confined area, giving it only one way out through a screw, the outward gas will rotate the screw which can rotate a propeller.
+ linkify false
+
+The propeller drives the plane forward in the same way we’ve seen before. Turboprops only differ from piston aircraft in how they burn fuel to turn the propeller. They’re so similar, in fact, that some manufacturers offer the same aircraft for sale with either a turbine or a piston engine as an option.
+ linkify false
+ link http://en.wikipedia.org/wiki/Piper_PA-46 some manufacturers offer the same aircraft for sale
+
+## Turbojets
+ linkify false
+
+With turboprops, we capture the energy in the air flying out of the combustion chamber and harness it to turn a propeller. Of course, we could just use that exhaust air as a source of thrust directly. If you sit on a skateboard with a leafblower pointing backwards, you’ll get the idea (and give the kids in your neighborhood bad ideas).
+ linkify false
+
+Turbojets use forward-facing fans to pull air into the engine. More fans compress the air, then fuel is added and ignited. The rapidly expanding air flies out the back, pushing the engine (and the rest of the plane) forward.
+ linkify false
+
+That’s all well and good, but what actually provides the power to make our fan blades and compressor turn? Fine, we have to capture a little bit of the energy from the air on its way out. We add a teensy turbine in the exhaust flow. The air turns it, and it turns a shaft which is connected to the fans and compressor. But most of the air flies straight out.
+ linkify false
+
+## Turbofans
+ linkify false
+
+The turbojets described above aren’t actually in any airliners these days. It turns out that if you already have a turbine in the exhaust flow, it doesn’t cost you very much thrust to make it bigger and capture more energy. And so you do that — but now you’re left with an excess of rotational power. What do you do?
+ linkify false
+
+Let’s make our intake fan (the thing we use to pull air into the compressor) a bit bigger, without making the compressor intake bigger. The excess air we’re pulling in goes straight out the back, without being ignited. If this sounds familiar, it’s because here the fan is acting as a propeller, pulling air rearwards to move the plane forwards.
+ linkify false
+
+In short, a turbofan has two distinct forms of thrust. In the center, the fan pulls air into a turbine, which spits hot air backwards to push the plane along. The multitalented fan also produces some thrust directly itself.
+ linkify false
+
+A key property of turbofan engines is the bypass ratio, which is the amount of air that is pushed straight out by the fan (bypassing the turbine) relative to the amount of air which passes through the turbine. Over time, bypass ratios have been growing: the old Boeing 727’s engines had a roughly 1:1 bypass ratio. The 757 that replaced it in the 1980s had engines with a 6:1 bypass ratio. The newly-launched Boeing 787’s engines have an 11:1 bypass ratio.
+ linkify false
+ italics bypassing
+
+Remember the way old planes had these really long, narrow, cigar-looking jet engines? It’s because most of their thrust came from the exhaust. Now, they’re like giant fans.
+ linkify false
+
+### Engines you don’t see now on your aircraft, but you hopefully one day will
+ linkify false
+
+## Rockets
+ linkify false
+
+Rockets are a magically simple form of propulsion. There are no turbines, compressors, or any serious moving parts. Rockets are reaction engines, meaning that something flying out the back pushes you forward. This stuff flying out the back can be hydrogen peroxide which has suddenly decomposed (and expanded) into steam and oxygen, or hydrogen that you’ve recently burned, or even half-atoms from a nuclear explosion.
+ linkify false
+ link http://en.wikipedia.org/wiki/Nuclear_pulse_propulsion even half-atoms from a nuclear explosion
+
+Rockets can provide wondrous amounts of thrust. The North American X-15 reached Mach 6.7 in 1967. That set the record for the fastest manned flight, which still stands today.
+ linkify false
+ link http://en.wikipedia.org/wiki/North_American_X-15 North American X-15
+
+Tragically, rockets aren’t a very efficient way to travel right now.
+ linkify false
+
+## Ramjets
+ linkify false
+
+If you flew a turbojet engine fast enough, there would be enough air coming at the engine that you wouldn’t even need fan blades to drag in the requisite air. Ramjets are simple hourglass-shaped tubes. As the plane travels at very high speeds, air is scooped in. The air is compressed as it travels back the narrowing tube. At the narrowest point, fuel is added and ignited, causing the combusted mix to shoot out and push the ramjet forward.
+ linkify false
+
+Those of you paying attention will notice a slight hiccup in our lovely no-moving-parts design. Since a ramjet relies on its motion to bring air into the engine, it can’t start from a standstill. There is no way around this, which makes ramjets a little impractical for planes which want to do things like, say, land at an airport.
+ linkify false

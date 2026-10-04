@@ -1,0 +1,60 @@
+title Theft
+date 2007-06-12
+canonicalUrl http://johncollison.ie/blog/2007/06/12/theft/
+
+post-header.scroll
+
+Theft reared its head in many forms today - identity theft, theft of our expectations, theft of our brothers and finally theft of my usual night’s sleep.
+ linkify false
+
+Identity theft
+ linkify false
+ bold Identity theft
+
+As you might know, the big Apple developer conference WWDC started today and a few days ago Patrick and I decided we wanted to go. Patrick had managed to blag a free pass due to his Croma article and general being-Irishness but I wanted to go too. A friend of his had some time ago offered his pass to Patrick (he wasn’t able to go). The answer was obvious. I had to become him. And I had only a few hours to do it.Eventually, we worked out a system. At 6.30 this morning Patrick turned up at the Moscone Centre with a college identity card and his photo ID. He picked up his student pass without issue. 2 hours later I met Patrick and picked up my pass. The various hired goons didn’t seem to take issue with the college student presenting his pass being shorter, younger and generally differenter than I should have been.
+ linkify false
+ link http://developer.apple.com/wwdc/ WWDC
+ italics become
+ italics differenter
+
+Expectation theft
+ linkify false
+ bold Expectation theft
+
+I was ushered along with the other students to the waiting area. It was a major letdown when we were told they would not be in the main auditorium for Steve Jobs’s keynote. The group of students felt odd too… there were lots of cliques of nerds talking together and I felt out of place. It was like a serious nerd camp. Like CTYI on steroids. I saw one sixty-something guy who was thin as a stick insect, had a rapidly thinning head of gray hair down past his shoulders, thick half moon spectacles and was hunched over… a Macbook. And he had a pass that proclaimed him to be a student. I don’t think I want to know the background to that particular story. Patrick and I both agreed after the keynote that it didn’t live up to our expectations. The three parts were:
+ linkify false
+ italics serious
+ italics that
+
+- features of Leopard, most of which everyone knew going in,
+ linkify false
+- Apple’s Safari browser released for Windows XP and Vista (yay?), and
+ linkify false
+- the development platform for the iPhone, which basically boiled down to “no, you can’t make apps for it”
+ linkify false
+
+We did get free food though so it wasn’t all bad.
+ linkify false
+
+Theft of our brothers
+ linkify false
+ bold Theft of our brothers
+
+Earlier this evening, Harj and Kul left for Boston. Before they went we had innumerable penalty shootouts to make up for the ones we wouldn’t be able to have in Boston. On the way to the airport they dropped by the justin.tv office (Justin.tv is another YC funded company where the founder is videocasting his life 24/7) and picked us up a camara for eBay live. We’re going to be broadcasting from our booth and hopefully we’ll score some publicity with it.
+ linkify false
+ link http://justin.tv justin.tv
+
+[Image not archived: Pa in goals]
+
+Theft of my sleep
+ linkify false
+ bold Theft of my sleep
+
+I’m not sure how to put this. Let’s just say I’m not known for my capacity for dealing with a lack of sleep (Patrick, on the other hand, got no sleep the night before last and 2 hours last night, and is merry as a Frenchman). So when I realised (i.e. Patrick drilled it into me) that we’ve a lot of features we need to get ready for launch, I knew it was gonna be a long night. At 2am Patrick headed to bed and I stayed coding our ‘listings view’ feature. I nearly gave up trying to figure out AUTableInterface without Patrick to poke and annoy into helping me, but my saviour came in the form of the Wolfe Tones on Patrick’s laptop. After a few choruses of ‘Come out ye Black and Tans!’, the coding team found the problem and ruthlessly ambushed him. We had an insider order a ‘Self Halt!’ command and we opened a debugger fire from behind the tableHeadings.
+ linkify false
+
+As I write this, I’m probably the closest I’ll come to being high without taking illegal substances. My attack on bugs and lameness in the app was fuelled by adrenaline and ridiculously strong coffee, tea and sugared Red Bull. I was high as a kite, but I had the talking Australian clownfish on my shoulder to point out errors and keep me on the straight and narrow.
+ linkify false
+ italics sugared
+
+footer.scroll

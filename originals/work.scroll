@@ -1,0 +1,34 @@
+I realise I’ve been posting mostly about aspects of life like food and blagging my way into things up to now. It’s high time for a post about how work on Auctomatic (the reason I’m here, after all) is going.
+ linkify false
+ link http://auctomatic.com Auctomatic
+
+Working towards launch
+ linkify false
+ bold Working towards launch
+
+Patrick and I have been churning out code at a fair rate to get things ready for launch. It’s maddening, because we’re 99% there, and have been for the last week. Things tend to take so much longer when you’re not allowed bugs and things have to work in Internet Explorer 6. Indeed, many times I’ve considered our homepage redirecting to getfirefox.com for IE6 users. Harj has been giving our site a complete makover and doing a seriously impressive job. Our frontend pages (non-logged in, that is) our now very pretty:
+ linkify false
+ italics so much longer
+
+Harj and I are now turning our attention to finalising details of our app’s interface. The big problem with all our competitors is their interfaces are horrible and clunky. From the feedback we got at eBay Live, people seem to really like ours. One powerseller gave Patrick a hug after he demo’ed the app to her. It’s even going to be better than the iPhone’s UI. There, I said it!
+ linkify false
+
+Nostalgia
+ linkify false
+ bold Nostalgia
+
+Before we went to eBay Live! in Boston, Patrick spent a lot of time setting up the servers. We decided to name our architecture after villages in Tipperary to maintain our links with Ireland. It sounds odd to hear “incoming requests will hit the lighttpd server on Puckaun and be redirected to Killaloe, Ballina or Portroe.” I’m hoping our cables between machines have N7 written on them somewhere for extra meaningfulness.
+ linkify false
+
+Getting things done
+ linkify false
+ bold Getting things done
+
+Yesterday I had a problem with Seaside linking to a stylesheet multiple times (don’t ask). After 15 minutes I gave up and decided to ask Patrick. He wasn’t on MSN and I was about to email him asking him to when I realised I prod him onto MSN a lot - the time I spend sending him emails to go on is an inefficiency. I decided to write a script to be able to poke members of the Auctomatic team from the command line. After 15 minutes of debugging (I could have sworn it was chomp that takes off trailing new newlines. Maybe I was just hungry) it was finally working and at my shell I simply had to enter:
+ linkify false
+
+$ poke p
+ linkify false
+
+Of course, emailing him would have just taken 10 seconds more so I’ll have to do a lot of poking before I can chalk this up as a saving.
+ linkify false
